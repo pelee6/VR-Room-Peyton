@@ -6623,7 +6623,7 @@ MonoBehaviour:
       m_Flags: 0
     - m_Name: 
       m_Id: f892ba2d-f603-4504-9764-aeda198f0aba
-      m_Path: <Mouse>/rightButton
+      m_Path: <Keyboard>/comma
       m_Interactions: 
       m_Processors: 
       m_Groups: 
@@ -8620,7 +8620,7 @@ AudioSource:
   MinDistance: 1
   MaxDistance: 500
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
